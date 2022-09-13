@@ -1,0 +1,9 @@
+*{
+    margin:0;
+}
+nav{
+    background-color: red;
+}
+main{
+    background: linear-gradient(90deg, rgba(200,130,55,1), rgba(136,255,105,0.3), rgba(33,140,240,0.8) );
+}
